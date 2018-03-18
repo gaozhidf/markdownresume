@@ -1,7 +1,7 @@
 # 高执
-## 前端开发 & 运维开发
+## 全栈开发 & 后端开发
 
-> [gaozhidf.ml/resume.html](http://gaozhidf.ml/resume.html)
+> [gaozhidf.github.io/markdownresume](http://gaozhidf.github.io/markdownresume)
 
 > [gaozhidf@foxmail.com](mailto:gaozhidf@foxmail.com)
 
@@ -19,16 +19,16 @@
 
 ### 技术
 
+1. Python
 1. JavaScript / jQuery
 1. React / Redux
 1. Bootstrap
 1. Typescript
-1. Python
 1. Shell Scripting
 1. Docker
 1. GNU/Linux
+1. Oracle
 1. Postgresql
-1. NGINX
 1. Redis
 1. Ansible
 
@@ -36,15 +36,19 @@
 
 ### 工作
 
-* **Ericsson CGC BUSS**
-    *2016.7 ~ 现在*
+* **GZCB**
+    *2017.11 ~ 现在*
+    广州银行信用卡中心,在数据资产管理团队,参与账户管理项目,正式工作
+
+* **Ericsson CGCS**
+    *2016.7 ~ 2017.10*
     爱立信移动数据应用技术研究开发（广州）有限公司，BUSS分部，参与数据应用平台开发，正式工作
 
 * **N I O T**
     *2016.1 ~ 2016.2*
     广州中国科学院计算机网络中心，参与Lora物联网项目，实习
 
-* **Ericsson CGC BUGS**
+* **Ericsson CGC**
     *2015.7 ~ 2015.10*
     爱立信广州，BUGS分部，参与CNM 6.0维护与升级，实习
 
@@ -52,7 +56,17 @@
 
 ### 经历
 
-**Secure Entitlement Service** &emsp; *软件开发工程师*  &emsp; *2016.12 ~ 现在*
+**Account Management System** &emsp; *数据分析师*  &emsp; *2017.11 ~ 现在*
+    **项目描述：** 对原来数据仓库的模型和业务实现，改用新的业务系统，实现快速定制化评分和风险策略
+    **项目职责:**  
+    1.对原来数据仓库底层,及其他层次的业务和sql代码梳理,和表结构设计
+    2.对原来评分模型的实现在新的业务系统上配置，同时编写sas代码做交叉检验
+    3.数据库数据迁移的初始化及增量校验,设计校验确保数据准确
+    `Oracle + PL/SQL + SAS + excel`
+    4.数据库血缘关系可视化工具开发 
+    `python + flask + bootstrap + sqlite`
+
+**Secure Entitlement Service** &emsp; *软件开发工程师*  &emsp; *2016.12 ~ 2017.10*
     **项目描述：** 作为安全认证管理服务器，给用户提供多种解决方案的消息推送和认证
     **项目职责:**  
     1.参与开发用户移动终端界面，用于客户购买费用套餐与套餐管理，同时支持多语言选择
@@ -76,7 +90,7 @@
     **项目描述：** 广域低功耗物联网试验性项目，采用 Lora 实现联网， 实现终端设备的显示管理
     **项目职责：** 
     1.前端服务器 User Server 的实现，包括实时数据展示和用户及设备管理
-    `python + flask + jade + bootstrap`
+    `python + flask + bootstrap + redis`
 
 ------
 
@@ -92,7 +106,7 @@
     Debian、Ubuntu、CentOS、Docker、NGINX
 
 * **编程**
-    JavaScript、Golang、Shell Scripting、Python
+    JavaScript、Golang、Shell Scripting、Python、SQL
 
 * **ACG**
     动漫，高达迷，机器人迷
@@ -104,5 +118,5 @@
 * **GitHub**
     [github.com/gaozhidf](https://github.com/gaozhidf)
 
-* **Twitter**
-    [twitter.com/gaozhidf](https://twitter.com/xuxiaodong)
+* **Facebook**
+    [facebook.com/gaozhidf](https://www.facebook.com/zhigaodf)
