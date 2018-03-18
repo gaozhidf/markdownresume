@@ -1,0 +1,20 @@
+{
+  "name": "my-markdown-resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "css-prepare": "rm -rf ./node_modules/markdown-resume/assets/css/* && cp css/*.css ./node_modules/markdown-resume/assets/css",
+    "tohtml": "npm run css-prepare && md2resume resume.md",
+    "topdf": "npm run css-prepare && md2resume --pdf resume.md",
+    "tolive": "light-server -s . -w 'resume.md, css/resume.css #  npm run tohtml'",
+    "dev": "npm run tohtml && npm run tolive",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "light-server": "^2.0.2",
+    "markdown-resume": "^0.1.0"
+  }
+}
