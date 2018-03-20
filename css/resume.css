@@ -448,6 +448,10 @@ em {
     width: 100%;
   }
 
+  div[id*='subtitle'] {
+    font-size: 50%;
+  }
+
   .container { 
     border-top:none;
     padding: 0;

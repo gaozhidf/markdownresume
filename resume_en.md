@@ -3,7 +3,7 @@
 1. Born on 1993-03
 1. Live in Guangzhou
 
-> [gaozhidf.github.io/markdownresume](http://gaozhidf.github.io/markdownresume)
+> [gaozhidf.github.io/markdownresume/resume_en.html](http://gaozhidf.github.io/markdownresume/resume_en.html)
 
 > [gaozhidf@foxmail.com](mailto:gaozhidf@foxmail.com)
 
@@ -64,47 +64,49 @@
 
 ### <div id='subtitle'>Project Experience</div>
 
-**Account Management System** &emsp; *Data Analyst*  &emsp; *2017.11 ~ 现在*
-    **项目描述：** 对原来数据仓库的模型和业务实现，改用新的业务系统，实现快速定制化评分和风险策略
-    **项目职责:**  
-    1.对原来数据仓库底层,及其他层次的业务和sql代码梳理,和表结构设计
-    2.对原来评分模型的实现在新的业务系统上配置，同时编写sas代码做交叉检验
-    3.数据库数据迁移的初始化及增量校验,设计校验确保数据准确
+**Account Management System** &emsp; *Data Analyst*  &emsp; *2017.11 ~ now*
+    **Description:** Re-implemneting Customer Value Module from old dataware, and re-design tables in new dataware, which is used to rating user scores and making risk strategy more efficiently
+    **Achievement:**  
+    1.Re-design tables in new dataware, clean up the logical relations between business, and review ETL 
+    2.Configure the score module in new Decision Engine, and do the cross validation with SAS code
+    3.Design testcase about initialization and migration of data, and validate data
     `Oracle + PL/SQL + SAS + excel`
-    4.数据库血缘关系可视化工具开发 
+    4.Develop visual tool about blood mappings among tables
     `python + flask + bootstrap + sqlite`
 
 **Secure Entitlement Service** &emsp; *Software Developer*  &emsp; *2016.12 ~ 2017.10*
-    **项目描述：** 作为安全认证管理服务器，给用户提供多种解决方案的消息推送和认证
-    **项目职责:**  
-    1.参与开发用户移动终端界面，用于客户购买费用套餐与套餐管理，同时支持多语言选择
+    **Description:** As a Secure Entitlement Server, provide solutions about pushing message and AAA (Authentication, Authorization, Accounting)
+    **Achievement:**  
+    1.Develop mobile UI, which is used to purchase users' plans and support multi-language
     `Reactjs + Redux + ReactIntl`
-    2.用户权限管理系统开发，作为整个管理系统入口；
+    2.Develop SSM Portal, as a entry portal for SSM(ses system management) and the service about user management；
     `typescript + expressjs + ejs + jquery, passport + express-session + redis`
-    3.同时参与开发界面的后端模块有版本管理模块，备份与恢复模块，日志管理模块，配置文件管理模块
+    3.Participating in development multi services on SSM, such as Version Viewer, Backup Viewer, Log Viewer and Config Server
     `typescript + expressjs + ejs + jquery, java + jsf, postgresql, elasticsearch`
-    4.作为系统管理节点的主要负责人，负责节点自动化环境搭建与版本发布
+    4.As the main stakeholder about node of SSM, setup CI/CD env and release version
     `python + shell, jenkins + kvm + openstack, zypper + rpm`
 
 **Dynamic Digital Interaction** &emsp; *Software Developer* &emsp; *2016.7 ~ 2016.11*
-    **项目描述：** Iot开发者网站，可用于物联网终端设备管理与监控，同时提供API查询与数据监控功能
-    **项目职责：** 
-    1.主要负责前端界面开发， 包括数据实时展示与设备管理展示
+    **Description:** Focus on developing Iot dev portal, which is used to monitor and manage iot devices and provide API about user management and data monitoring
+    **Achievement:** 
+    1.Front-end developing about realtime databoard and devices management 
     `Reactjs + Redux, java + spring boot, elasticsearch, mysql`
-    2.构建gnat的docker image的，同时参与客户环境部署
+    2.Build docker images for project, such as gnat about realtime dashboard, and help customers to deploy and setup project
     `docker + rancher`
 
-**Lora 物联网管理平台** &emsp; *Python Design Intern* &emsp; *2016.1 ~ 2016.2*
-    **项目描述：** 广域低功耗物联网试验性项目，采用 Lora 实现联网， 实现终端设备的显示管理
-    **项目职责：** 
-    1.前端服务器 User Server 的实现，包括实时数据展示和用户及设备管理
+**Lora Management Platform** &emsp; *Python Design Intern* &emsp; *2016.1 ~ 2016.2*
+    **Description:** The project is about building up lora network for Iot devices, which also provides devices mangement and realtime dashboard
+    **Achievement:** 
+    1.Develop User Server and frontend UI, including realtime dashboard about devices' data, user management and device management
     `python + flask + bootstrap + redis`
 
 ------
 
 ### <div id='subtitle'>Education</div>
 
-**South China University of Technology** &emsp; *Information Engineering School of Electronic and Information Engineering* &emsp; *2012.9 ~ 2016.7*
+**South China University of Technology** 
+  *Information Engineering School of Electronic and Information Engineering* 
+  *2012.9 ~ 2016.7*
 
 ------
 
