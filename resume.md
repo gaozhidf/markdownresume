@@ -22,7 +22,7 @@
 1. Python
 1. JavaScript / jQuery
 1. React / Redux
-1. Bootstrap
+1. Java
 1. Typescript
 1. Shell Scripting
 1. Docker
@@ -36,25 +36,39 @@
 
 ### 工作
 
-* **GZCB**
-    *2017.11 ~ 现在*
+1. **Youmi**
+    *2018.04 ~ 现在*
+    有米科技股份有限公司,在广告营销工具团队,参与Appgrowing项目,正式工作
+
+1. **GZCB**
+    *2017.11 ~ 2018.04*
     广州银行信用卡中心,在数据资产管理团队,参与账户管理项目,正式工作
 
-* **Ericsson CGCS**
+1. **Ericsson CGCS**
     *2016.7 ~ 2017.10*
     爱立信移动数据应用技术研究开发（广州）有限公司，BUSS分部，参与数据应用平台开发，正式工作
 
-* **N I O T**
+1. **N I O T**
     *2016.1 ~ 2016.2*
     广州中国科学院计算机网络中心，参与Lora物联网项目，实习
 
-* **Ericsson CGC**
+1. **Ericsson CGC**
     *2015.7 ~ 2015.10*
     爱立信广州，BUGS分部，参与CNM 6.0维护与升级，实习
 
 ------
 
 ### 经历
+
+**Appgrowing** &emsp; *高级后端工程师*  &emsp; *2018.04 ~ 现在*
+    **项目描述：** 专业的移动营销数据分析平台，
+    **项目职责:**  
+    1.管理后台设计与开发，用于用户财务相关和数据支撑，包括用户套餐管理及优惠券发放，广告数据合并与处理
+    `Django Rest Framework + mysql + redis + elasticsearch`
+    2.统一后台设计与开发，用于对接公司其他业务后台，包括基础公共服务，品牌库，品牌与广告数据处理分析
+    `golang/python + mysql + elasticsearch`
+    3.海外版基础数据结构设计，及后端开发
+    `Django + mysql + redis + elasticsearch`
 
 **Account Management System** &emsp; *数据分析师*  &emsp; *2017.11 ~ 现在*
     **项目描述：** 对原来数据仓库的模型和业务实现，改用新的业务系统，实现快速定制化评分和风险策略
