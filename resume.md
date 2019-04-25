@@ -1,11 +1,9 @@
 # 高执
-## 全栈开发 & 后端开发
+## 数据分析 & 数据处理
 
 > [gaozhidf.github.io/markdownresume](http://gaozhidf.github.io/markdownresume)
-
-> [gaozhidf@foxmail.com](mailto:gaozhidf@foxmail.com)
-
-> [(+86) 13660484561](tel:+8613660484561)
+  [gaozhidf@foxmail.com](mailto:gaozhidf@foxmail.com)
+  [(+86) 13660484561](tel:+8613660484561)
 
 ------
 
@@ -20,17 +18,17 @@
 ### 技术
 
 1. Python
-1. JavaScript / jQuery
+1. JavaScript / Typescript
 1. React / Redux
 1. Java
-1. Typescript
+1. Mysql
 1. Shell Scripting
 1. Docker
 1. GNU/Linux
 1. Oracle
 1. Postgresql
 1. Redis
-1. Ansible
+1. SAS
 
 ------
 
@@ -55,22 +53,29 @@
 1. **Ericsson CGC**
     *2015.7 ~ 2015.10*
     爱立信广州，BUGS分部，参与CNM 6.0维护与升级，实习
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ------
 
 ### 经历
 
 **Appgrowing** &emsp; *高级后端工程师*  &emsp; *2018.04 ~ 现在*
-    **项目描述：** 专业的移动营销数据分析平台，
+    **项目描述：** 专业的移动营销数据分析平台，获取全行业广告素材，帮助广告优化师、广告主获取最新行业动态
     **项目职责:**  
     1.管理后台设计与开发，用于用户财务相关和数据支撑，包括用户套餐管理及优惠券发放，广告数据合并与处理
     `Django Rest Framework + mysql + redis + elasticsearch`
-    2.统一后台设计与开发，用于对接公司其他业务后台，包括基础公共服务，品牌库，品牌与广告数据处理分析
-    `golang/python + mysql + elasticsearch`
+    2.统一后台设计与开发，用于对接公司其他业务后台及后台数据支撑，包括品牌库，广告屏蔽规则，应用、品牌与广告数据处理分析
+    `golang/python + mysql + elasticsearch + celery`
     3.海外版基础数据结构设计，及后端开发
     `Django + mysql + redis + elasticsearch`
 
-**Account Management System** &emsp; *数据分析师*  &emsp; *2017.11 ~ 现在*
+**Account Management System** &emsp; *数据分析师*  &emsp; *2017.11 ~ 2018.04*
     **项目描述：** 对原来数据仓库的模型和业务实现，改用新的业务系统，实现快速定制化评分和风险策略
     **项目职责:**  
     1.对原来数据仓库底层,及其他层次的业务和sql代码梳理,和表结构设计
@@ -131,6 +136,8 @@
 
 * **GitHub**
     [github.com/gaozhidf](https://github.com/gaozhidf)
+
+* <br>
 
 * **Facebook**
     [facebook.com/gaozhidf](https://www.facebook.com/zhigaodf)
