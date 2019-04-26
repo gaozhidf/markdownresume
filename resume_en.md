@@ -3,11 +3,9 @@
 1. Born on 1993-03
 1. Live in Guangzhou
 
-> [gaozhidf.github.io/markdownresume/resume_en.html](http://gaozhidf.github.io/markdownresume/resume_en.html)
-
-> [gaozhidf@foxmail.com](mailto:gaozhidf@foxmail.com)
-
-> [(+86) 13660484561](tel:+8613660484561)
+> [https://gaozhidf.gitlab.io/blog](https://gaozhidf.gitlab.io/blog)
+  [gaozhidf@foxmail.com](mailto:gaozhidf@foxmail.com)
+  [(+86) 13660484561](tel:+8613660484561)
 
 ------
 
@@ -21,50 +19,78 @@
 ### <div id='subtitle'>IT Skills</div>
 
 1. Python
-1. JavaScript / jQuery
+1. JavaScript / Typescript
 1. React / Redux
-1. Bootstrap
-1. Typescript
+1. Java
+1. Mysql
 1. Shell Scripting
 1. Docker
 1. GNU/Linux
 1. Oracle
 1. Postgresql
 1. Redis
-1. Ansible
+1. SAS
 
 ------
 
 ### <div id='subtitle'>Work Experience</div>
 
-* **GZCB**
-    *2017.11 ~ now*
+1. **Youmi**
+    *2018.04 ~ now*
+    Youmi Technology CO.,Ltd
+    
+    *Full-time Job*
+
+1. **GZCB**
+    *2017.11 ~ 2018.04*
     Credit Card Center of Guangzhou Bank
     
     *Full-time Job*
 
-* **Ericsson CGCS**
+1. **Ericsson CGCS**
     *2016.7 ~ 2017.10*
     Ericsson Mobile Data Applications Technology R&D, BUSS CGC
+
     *Full-time Job*
 
-* **N I O T**
+1. **N I O T**
     *2016.1 ~ 2016.2 *
     Computer Network Information Center, Guangzhou
+
     *Intern Job*
 
-* **Ericsson CGC**
+1. **Ericsson CGC**
     *2015.7 ~ 2015.10*
     Ericsson CGC, BUGS CGC
     
     *Intern Job*
 
+1. <br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ------
 
 ### <div id='subtitle'>Project Experience</div>
 
-**Account Management System** &emsp; *Data Analyst*  &emsp; *2017.11 ~ now*
+**Appgrowing** &emsp; *Senior Backend Engineer*  &emsp; *2018.04 ~ now*
+    **Description:** Professional Mobile Marketing data analysis platform, access to industry-wide advertising materials to help advertising optimization engineer, Advertisers get the latest industry news
+    **Achievement:**  
+    1.Develop AG Admin System, which is used to manage finacial service about packages and coupons, and data processing and monitoring abount ads
+    `Django Rest Framework + mysql + redis + elasticsearch`
+    2.Participate in developing Youcloud Management System, which is the management backend for all the youcloud services, and fucus on Brand Data Service, Ad Banned Rule Serivce, and ad data processing and analysing 
+    `golang/python + mysql + elasticsearch + celery`
+    3. AG Oversea database tables design and backend development
+    `Django + mysql + redis + elasticsearch`
+
+**Account Management System** &emsp; *Data Analyst*  &emsp; *2017.11 ~ 2018.04*
     **Description:** Re-implemneting Customer Value Module from old dataware, and re-design tables in new dataware, which is used to rating user scores and making risk strategy more efficiently
     **Achievement:**  
     1.Re-design tables in new dataware, clean up the logical relations between business, and review ETL 
@@ -81,7 +107,7 @@
     `Reactjs + Redux + ReactIntl`
     2.Develop SSM Portal, as a entry portal for SSM(ses system management) and the service about user management；
     `typescript + expressjs + ejs + jquery, passport + express-session + redis`
-    3.Participating in development multi services on SSM, such as Version Viewer, Backup Viewer, Log Viewer and Config Server
+    3.Participate in developing multi services on SSM, such as Version Viewer, Backup Viewer, Log Viewer and Config Server
     `typescript + expressjs + ejs + jquery, java + jsf, postgresql, elasticsearch`
     4.As the main stakeholder about node of SSM, setup CI/CD env and release version
     `python + shell, jenkins + kvm + openstack, zypper + rpm`
