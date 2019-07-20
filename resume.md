@@ -1,5 +1,5 @@
 # 高执
-## 数据分析 & 数据处理
+## 后端开发 & 全栈开发
 
 > [gaozhidf.github.io/markdownresume](http://gaozhidf.github.io/markdownresume)
   [gaozhidf@foxmail.com](mailto:gaozhidf@foxmail.com)
